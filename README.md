@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQELZn8ZCimcPA/profile-displaybackgroundimage-shrink_200_800/B56Z92_nMWIQAQ-/0/1784407815579?e=1785974400&v=beta&t=GxMEmvbzX6GiZXZHA1vOgU_xslf0UqekMmJQCflgZPQ">
 <h1 align="center" 👋,This is  Zakariya Md Rafiul Haq</h1>
-<h3 align="center"Creative Technologist | Full-Stack Web Developer | AI & Automation Specialist  from Bangladesh</h3>
+<h3 align="center"Full-Stack Web Developer | AI & Automation Specialist  from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveloper-zakariyahaq&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloper-zakariyahaq" /> </p>
 
