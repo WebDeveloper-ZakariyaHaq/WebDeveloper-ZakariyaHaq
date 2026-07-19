@@ -1,12 +1,13 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQELZn8ZCimcPA/profile-displaybackgroundimage-shrink_200_800/B56Z92_nMWIQAQ-/0/1784407815579?e=1785974400&v=beta&t=GxMEmvbzX6GiZXZHA1vOgU_xslf0UqekMmJQCflgZPQ">
-<h1 align="center">Hi 👋, I'm Zakariya Md Rafiul Haq</h1>
+<h1 align="center">Greetings 👋, This is Zakariya Md Rafiul Haq</h1>
 <h3 align="center">Creative Technologist | Full-Stack Web Developer | AI & Automation Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveloper-zakariyahaq&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloper-zakariyahaq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdeveloper-zakariyahaq" alt="webdeveloper-zakariyahaq" /></a> </p>
 
-- 🔭 I’m currently working as **Apprenticeship**
+- 🔭 I’m currently working an**Apprenticeship at 
+Freedom IT Institutions**
 
 - 🌱 I’m currently learning **web design with html5, css3. java script, jQuery, mySQL, WordPress.**
 
