@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdeveloper-zakariyahaq" alt="webdeveloper-zakariyahaq" /></a> </p>
 
-- 🔭 I’m currently working an**Apprenticeship at 
-Freedom IT Institutions**
+- 🔭 I’m currently working as an ** Apprentice at 
+Freedom IT Institutions **
 
 - 🌱 I’m currently learning **web design with html5, css3. java script, jQuery, mySQL, WordPress.**
 
